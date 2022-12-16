@@ -1,2 +1,2 @@
 # php
-Repositório dedicado aos meus estudo em php
+Repositório dedicado aos meus estudo em php.
